@@ -11,11 +11,11 @@ import torch
 from gpt3_pytorch import GPT3
 
 gpt3 = GPT3(
-            vocabsize=1000,
-            features=256,
-            nblocks=96,
-            k=200 # top-k tokens
-        )
+        vocabsize=1000,
+        features=256,
+        nblocks=96,
+        k=200 # top-k tokens
+     )
 
 vocabsize=1000
 ntokens = 200
