@@ -1,7 +1,8 @@
 # gpt3-pytorch
-Unofficial PyTorch Implementation of OpenAI's GPT-3
+Unofficial PyTorch Implementation of OpenAI's GPT-3 (discount edition)
 
-I'm' definitely aware I'm late to the party but here's my discount implementation of GPT-3 by OpenAI in PyTorch. I've simply used regular Attention instead of Multihead Attention and have stuck to using very few blocks because my laptop cannot handle anything more than that.
+## Foreword
+I'm definitely aware I'm late to the party but here's my discount implementation of GPT-3 by OpenAI in PyTorch. I've simply used regular Attention instead of Multihead Attention and have stuck to using very few blocks because my laptop cannot handle anything more than that.
 
 ## Usage
 
